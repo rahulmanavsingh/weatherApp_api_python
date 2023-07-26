@@ -119,36 +119,4 @@ p.place(x=670,y=430)
 # label5=Label(root,text="WIND",font=("Helvetica",15,'bold'),fg="white",bg="#1ab5ef")
 # label5.place(x=120,y=400)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 root.mainloop()
