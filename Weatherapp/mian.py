@@ -54,35 +54,6 @@ def getWeather():
     except Exception as e:
         messagebox.showerror("Weather App","Invalid Entry!!")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #search box
 Search_image=PhotoImage(file="search.png")
 myimage=Label(image=Search_image)
